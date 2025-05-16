@@ -12,9 +12,9 @@ site_theme               : "default"
 title                    : "Danyang Li"
 title_separator          : "-"
 name                     : &name "Danyang Li"
-description              : &description "personal description"
+description              : &description "a fourth year PhD student from University of Pittsburgh"
 url                      : https://danyangli956.github.io
-baseurl                  : https://danyangli956.github.io
+baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
