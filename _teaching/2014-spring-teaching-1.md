@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Pittsburgh, Department of Biostatistics"
+location: "Pittsburgh, PA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Advanced Statistical Inference
 ======
+2024 Fall
 
-Heading 2
+Statistical Methods for Omics Data   
 ======
-
-Heading 3
-======
+2025 Spring
